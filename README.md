@@ -4,9 +4,8 @@
 # Hausbier Hell – Bierbeschreibung
 
 ## Grundinformationen
-- **Name:** Hausbier Hell (Änderungen)
+- **Name:** Hausbier Hell
 - **Brauart:** All Grain
-- **Brauer:** Vani
 - **Sudgröße:** 10,0 Liter
 - **Kochmenge:** 14,5 Liter
 - **Kochzeit:** 90 Minuten

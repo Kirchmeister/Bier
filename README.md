@@ -1,7 +1,7 @@
 # Bierrezepte
 ######################
 
-# Hausbier Hell (Änderungen) – Bierbeschreibung
+# Hausbier Hell – Bierbeschreibung
 
 ## Grundinformationen
 - **Name:** Hausbier Hell (Änderungen)
